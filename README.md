@@ -26,4 +26,5 @@ url = {https://www.sciencedirect.com/science/article/pii/S0925231220313333},
 author = {Kyongson Jon and Ying Sun and Qixin Li and Jun Liu and Xiaofei Wang and Wensheng Zhu},
 
 keywords = {Image restoration, Hyper-Laplacian, Overlapping group sparsity, Alternating direction method of multipliers}
+
 }
